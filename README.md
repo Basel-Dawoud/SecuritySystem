@@ -127,3 +127,4 @@ The Control ECU module handles security logic, motor control, and password stora
 ## Author
 **Basel Dawoud**  
 Developed as a demonstration of embedded systems and secure access control.
+Contact: baseldawoud2003@gmail.com
